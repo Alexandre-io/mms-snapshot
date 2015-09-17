@@ -1,7 +1,7 @@
 {
   "name": "mms-snapshoot",
-  "version": "1.0.2",
-  "description": "Download MMS snapshoot",
+  "version": "1.0.3",
+  "description": "Simple CLI to download snapshoot from MMS",
   "main": "lib/mms-snapshoot",
   "directories": {
     "lib": "./lib",
@@ -26,12 +26,12 @@
   "author": "Alexandre L.",
   "license": "MIT",
   "dependencies": {
-    "cli": "^0.9.0",
-    "lodash": "^3.10.1",
-    "moment": "^2.10.6",
-    "request": "^2.60.0"
+    "cli": "~0.10.0",
+    "lodash": "~3.10.1",
+    "moment": "~2.10.6",
+    "request": "~2.60.0"
   },
   "devDependencies": {
-    "jshint": "^2.8.0"
+    "jshint": "~2.8.0"
   }
 }
