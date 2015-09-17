@@ -1,4 +1,4 @@
-This command will download a snapshoot created on [MMS](https://mms.mongodb.com/).
+Simple CLI to download snapshoot from [MMS](https://mms.mongodb.com/).
 
 ### Setup
 ```sh
