@@ -1,3 +1,5 @@
+# MMS-snapshoot [![Build Status](https://travis-ci.org/Alexandre-io/mms-snapshoot.svg)](https://travis-ci.org/Alexandre-io/mms-snapshoot)
+
 Simple CLI to download snapshoot from [MMS](https://mms.mongodb.com/).
 
 ### Setup
