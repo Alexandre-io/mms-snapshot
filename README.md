@@ -1,4 +1,4 @@
-# MMS-snapshoot [![Build Status](https://travis-ci.org/Alexandre-io/mms-snapshoot.svg)](https://travis-ci.org/Alexandre-io/mms-snapshoot)
+# MMS-snapshoot [![Build Status](https://travis-ci.org/Alexandre-io/mms-snapshoot.svg)](https://travis-ci.org/Alexandre-io/mms-snapshoot) [![Codacy Badge](https://api.codacy.com/project/badge/grade/52a557b202ed4ca0a00a87bb4b492ac8)](https://www.codacy.com/app/alexandre_2/mms-snapshoot)
 
 Simple CLI to download snapshoot from [MMS](https://mms.mongodb.com/).
 

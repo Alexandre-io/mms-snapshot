@@ -1,6 +1,6 @@
 {
   "name": "mms-snapshoot",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple CLI to download snapshoot from MMS",
   "main": "lib/mms-snapshoot",
   "directories": {
