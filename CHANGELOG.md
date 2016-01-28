@@ -1,3 +1,8 @@
+1.0.5 / 2016-01-28
+=================
+  * Bump lodash
+  * Bump eslint
+
 1.0.4 / 2015-11-07
 =================
   * Add jshint & travis tests
