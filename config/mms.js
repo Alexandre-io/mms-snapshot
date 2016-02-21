@@ -4,7 +4,7 @@ module.exports = {
 	},
 	headers: {
 		'Content-Type': 'application/json',
-		'User-Agent': 'MMS-SNAPSHOOT'
+		'User-Agent': 'MMS-SNAPSHOT'
 	},
 	checkTimeout: 10000
 };

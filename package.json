@@ -1,18 +1,18 @@
 {
-  "name": "mms-snapshoot",
+  "name": "mms-snapshot",
   "version": "1.0.6",
-  "description": "Simple CLI to download snapshoot from MMS",
-  "main": "lib/mms-snapshoot",
+  "description": "Simple CLI to download mms-snapshot from MMS",
+  "main": "lib/mms-snapshot",
   "directories": {
     "lib": "./lib",
     "bin": "./bin"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alexandre-io/mms-snapshoot.git"
+    "url": "git+https://github.com/Alexandre-io/mms-snapshot.git"
   },
   "bin": {
-    "mms-snapshoot": "./bin/mms-snapshoot.js"
+    "mms-snapshot": "./bin/mms-snapshot.js"
   },
   "preferGlobal": true,
   "engines": {
@@ -23,7 +23,7 @@
   },
   "keywords": [
     "mms",
-    "snapshoot",
+    "snapshot",
     "backup",
     "mongodb"
   ],
