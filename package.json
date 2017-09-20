@@ -33,7 +33,7 @@
     "cli": "~1.0.1",
     "lodash": "~4.17.4",
     "moment": "~2.18.0",
-    "request": "~2.81.0"
+    "request": "~2.82.0"
   },
   "devDependencies": {
     "jshint": "~2.9.4"
