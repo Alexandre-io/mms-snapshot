@@ -1,6 +1,6 @@
 {
   "name": "mms-snapshot",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Simple CLI to download mms-snapshot from MMS",
   "main": "lib/mms-snapshot",
   "directories": {
@@ -32,7 +32,7 @@
   "dependencies": {
     "cli": "~1.0.1",
     "lodash": "~4.17.4",
-    "moment": "~2.22.2",
+    "moment": "~2.23.0",
     "request": "~2.88.0"
   },
   "devDependencies": {

@@ -1,3 +1,7 @@
+2.1.0 / 2018-12-17
+=================
+  * Fix compatibility with mongodb cloud API
+
 1.1.1 / 2017-02-27
 =================
   * Install Greenkeeper
