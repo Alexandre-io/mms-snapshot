@@ -1,6 +1,6 @@
 {
   "name": "mms-snapshot",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Simple CLI to download mms-snapshot from MMS",
   "main": "lib/mms-snapshot",
   "directories": {
@@ -16,7 +16,7 @@
   },
   "preferGlobal": true,
   "engines": {
-    "node": ">= 4.0"
+    "node": ">= 8.0"
   },
   "scripts": {
     "test": "node_modules/jshint/bin/jshint ./"
@@ -32,10 +32,10 @@
   "dependencies": {
     "cli": "~1.0.1",
     "lodash": "~4.17.4",
-    "moment": "~2.23.0",
+    "moment": "~2.24.0",
     "request": "~2.88.0"
   },
   "devDependencies": {
-    "jshint": "~2.10.0"
+    "jshint": "~2.10.2"
   }
 }

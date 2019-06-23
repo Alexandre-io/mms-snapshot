@@ -1,3 +1,8 @@
+3.0.0 / 2019-06-23
+=================
+  * Removed support for nodejs < 8
+  * Upgrade moment
+
 2.1.0 / 2018-12-17
 =================
   * Fix compatibility with mongodb cloud API
