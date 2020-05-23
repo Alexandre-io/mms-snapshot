@@ -35,7 +35,7 @@
     "cli": "~1.0.1",
     "lodash": "~4.17.12",
     "moment": "~2.24.0",
-    "request": "~2.88.0",
+    "request": "~2.88.2",
     "snyk": "^1.324.0"
   },
   "devDependencies": {
