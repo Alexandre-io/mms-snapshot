@@ -19,7 +19,9 @@
     "node": ">= 8.0"
   },
   "scripts": {
-    "test": "node_modules/jshint/bin/jshint ./"
+    "test": "node_modules/jshint/bin/jshint ./",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "keywords": [
     "mms",
@@ -31,11 +33,13 @@
   "license": "MIT",
   "dependencies": {
     "cli": "~1.0.1",
-    "lodash": "~4.17.4",
+    "lodash": "~4.17.12",
     "moment": "~2.24.0",
-    "request": "~2.88.0"
+    "request": "~2.88.0",
+    "snyk": "^1.324.0"
   },
   "devDependencies": {
     "jshint": "~2.11.0"
-  }
+  },
+  "snyk": true
 }
