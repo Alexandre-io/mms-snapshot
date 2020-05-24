@@ -1,4 +1,4 @@
-# MMS-snapshot [![Build Status](https://travis-ci.org/Alexandre-io/mms-snapshot.svg)](https://travis-ci.org/Alexandre-io/mms-snapshot) [![Codacy Badge](https://api.codacy.com/project/badge/grade/52a557b202ed4ca0a00a87bb4b492ac8)](https://www.codacy.com/app/alexandre_2/mms-snapshot) 
+# MMS-snapshot [![Build Status](https://travis-ci.org/Alexandre-io/mms-snapshot.svg)](https://travis-ci.org/Alexandre-io/mms-snapshot) [![Codacy Badge](https://api.codacy.com/project/badge/grade/52a557b202ed4ca0a00a87bb4b492ac8)](https://www.codacy.com/app/alexandre_2/mms-snapshot) [![Known Vulnerabilities](https://snyk.io/test/github/Alexandre-io/mms-snapshot/badge.svg)](https://snyk.io/test/github/Alexandre-io/mms-snapshot)
 
 Simple CLI to download snapshot from [MMS](https://mms.mongodb.com/).
 
