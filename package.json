@@ -1,6 +1,6 @@
 {
   "name": "mms-snapshot",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Simple CLI to download mms-snapshot from MMS",
   "main": "lib/mms-snapshot",
   "directories": {
@@ -16,10 +16,10 @@
   },
   "preferGlobal": true,
   "engines": {
-    "node": ">= 8.0"
+    "node": ">= 10.0"
   },
   "scripts": {
-    "test": "node_modules/jshint/bin/jshint ./",
+    "test": "snyk test && node_modules/jshint/bin/jshint ./",
     "snyk-protect": "snyk protect",
     "prepare": "npm run snyk-protect"
   },
@@ -33,13 +33,13 @@
   "license": "MIT",
   "dependencies": {
     "cli": "~1.0.1",
-    "lodash": "~4.17.12",
-    "moment": "~2.24.0",
-    "request": "~2.88.0",
-    "snyk": "^1.324.0"
+    "lodash": "~4.17.15",
+    "moment": "~2.26.0",
+    "request": "~2.88.2",
+    "snyk": "^1.325.0"
   },
   "devDependencies": {
-    "jshint": "~2.11.0"
+    "jshint": "~2.11.1"
   },
   "snyk": true
 }

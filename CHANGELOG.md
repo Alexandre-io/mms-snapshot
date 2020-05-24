@@ -1,3 +1,8 @@
+3.1.0 / 2020-05-24
+=================
+  * Removed support for nodejs < 10
+  * Upgrade dependencies
+  
 3.0.0 / 2019-06-23
 =================
   * Removed support for nodejs < 8
